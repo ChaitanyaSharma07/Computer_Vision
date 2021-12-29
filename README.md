@@ -11,3 +11,6 @@ main.py: contains code for normal handtracking
 file 2:
 poseEsti.py: contains code for pose estimation, for that you will require an mp4 video which will be added, you can use that
 or another one of your choice
+
+fil 3:
+face_recog.py: contains code for face recognition

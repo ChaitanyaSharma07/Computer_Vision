@@ -23,7 +23,7 @@ while True:
             print(id, lm)
 
             cx, cy = int(lm.x * w), int(lm.y * h)
-            cv2.circle(img, (cx, cy), 5, (255, 0, 0), cv2.FILLED)
+            #cv2.circle(img, (cx, cy), 5, (255, 0, 0), cv2.FILLED)
 
 
     cTime = time.time()
