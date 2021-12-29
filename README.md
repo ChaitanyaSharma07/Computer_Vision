@@ -5,3 +5,9 @@ you will need some modules which will be:
 1. media pipe (command:- pip install mediapipe)
 2. cv2 (command:- pip install opencv-python)
 
+file 1:
+main.py: contains code for normal handtracking
+
+file 2:
+poseEsti.py: contains code for pose estimation, for that you will require an mp4 video which will be added, you can use that
+or another one of your choice
